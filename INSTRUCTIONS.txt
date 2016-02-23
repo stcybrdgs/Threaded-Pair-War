@@ -1,15 +1,12 @@
 INSTRUCTIONS
 
-
 How to run the file pr2_scb.cpp:
-
 
 QUICK START:_____________________________________________
 1. On a Linux command line, type: gcc pr2_scb.cpp -lpthread
 2. Press 'Enter'
 3. Next, type: ./a.out 1
 4. Press 'Enter'
-
 
 DETAILED:_____________________________________________
 1. Open an instance of the Linux command line
@@ -28,3 +25,5 @@ DETAILED:_____________________________________________
    - the program will run
    - results will print to the console
    - a log file called 'log.txt' will appear in the directory
+   
+   
